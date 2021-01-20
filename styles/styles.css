@@ -475,6 +475,12 @@ a.footer__logo {
   color: var(--text-color-light);
   margin-top: 3.5rem;
 }
+.counter {
+  text-align: left;
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+  margin-top: 1.5rem;
+}
 
 /*========== MEDIA QUERIES ==========*/
 @media screen and (min-width: 576px) {
